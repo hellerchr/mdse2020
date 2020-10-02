@@ -5,4 +5,3 @@ apt-get install openjdk-14-jdk
 apt-get install docker.io
 systemctl enable --now docker
 usermod -aG docker mdse
-
