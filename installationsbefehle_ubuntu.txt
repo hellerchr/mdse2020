@@ -1,4 +1,4 @@
-sudo apt uodate
+sudo apt update
 sudo snap install intellij-idea-community --classic 
 sudo apt-get install git
 sudo apt-get install maven
