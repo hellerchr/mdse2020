@@ -1,7 +1,7 @@
-snap install intellij-idea-community --classic 
-apt-get install git
-apt-get install maven
-apt-get install openjdk-14-jdk
-apt-get install docker.io
-systemctl enable --now docker
-usermod -aG docker mdse
+sudo snap install intellij-idea-community --classic 
+sudo apt-get install git
+sudo apt-get install maven
+sudo apt-get install openjdk-14-jdk
+sudo apt-get install docker.io
+sudo systemctl enable --now docker
+sudo usermod -aG docker mdse
