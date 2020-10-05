@@ -2,7 +2,7 @@
 
 Folien & Übungen
 
-Nächste Vorlesung: 05.10 - 17:00 - 20:00
+Nächste Vorlesung: 23.10 - 12:30
 
 Dienstag (6.10) findet NICHT(!) statt.
 
