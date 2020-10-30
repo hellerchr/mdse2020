@@ -2,12 +2,12 @@
 Folien & Übungen
 
 ## Präsentationstermine
-Themen:
-* Machine Learning
-* Blockchain
-* NoSQL Datenbanken
-* Scrum
-* Datenbanken (SQL)
 
 ### Freitag 13.11
+* Datenbanken (SQL) (+20 Minuten)
+* NoSQL Datenbanken
+* Machine Learning
+
 ### Freitag 20.11
+* Scrum (+20 Minuten)
+* Blockchain
