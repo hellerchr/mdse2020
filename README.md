@@ -1,8 +1,13 @@
 # Methoden und Werkzeuge des Software Engineerings
-
 Folien & Übungen
 
-Nächste Vorlesung: 23.10 - 12:30
+## Präsentationstermine
+Themen:
+* Machine Learning
+* Blockchain
+* NoSQL Datenbanken
+* Scrum
+* Datenbanken (SQL)
 
-Bitte bis zum nächsten mal:
-- Präsentationsthema + Gruppe
+### Freitag 13.11
+### Freitag 20.11
