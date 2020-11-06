@@ -5,7 +5,7 @@ Folien & Übungen
 
 ### Freitag 13.11
 * Datenbanken (SQL) (+20 Minuten)
-* NoSQL Datenbanken
+* NoSQL Datenbanken (+10 Minuten)
 * Machine Learning
 
 ### Freitag 20.11
