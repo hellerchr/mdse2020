@@ -11,3 +11,7 @@ Folien & Übungen
 ### Freitag 20.11
 * Scrum (+20 Minuten)
 * Blockchain
+
+### Bitte mit den Folien Abgeben:
+* Name + Matrikelnr + Angabe (Praktischer/Theoretischer Teil/Gemeinschaftsnote)
+* Folienabgabe: Link in Github Issue oder per mail: christian.heller (at) sap.com
